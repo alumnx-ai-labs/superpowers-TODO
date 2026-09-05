@@ -1,0 +1,11 @@
+.superpowers/
+
+# Backend (Maven / Java)
+backend/target/
+backend/todo.db
+backend/*.db
+
+# Frontend (Angular / Node)
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
